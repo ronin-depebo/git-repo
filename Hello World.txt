@@ -1,3 +1,9 @@
 function hello(){
 	print("Hello World");
 }
+
+hello();
+
+function hiAll(){
+	print("Hello everybody");
+}
